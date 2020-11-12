@@ -1,0 +1,74 @@
+Run,d.name,d.percent,d.kbp,geo_accession,Bases,Bytes,sex,title,pmi,has_proteomics,age,rin,group,short_title,cause_of_death,Dementia,ApoE,pg_detected
+SRR2015713,Porphyromonas gingivalis,0,0,GSM1679648,12130951834,7982675922,male,C_0002 [reanalysis of GSM1580869],2,yes,73,7.7,C,C_0002,Acute myocardial infarction,no,e3/e2,FALSE
+SRR2015714,Porphyromonas gingivalis,0,0,GSM1679649,3880420404,2379260911,male,C_0003 [reanalysis of GSM1580870],2,yes,91,7.9,C,C_0003,Metastatic bladder cancer,no,e3/e3,FALSE
+SRR2015715,Porphyromonas gingivalis,0,0,GSM1679650,7660891006,4601600714,male,C_0004 [reanalysis of GSM1580871],2,yes,82,8.6,C,C_0004,Cardiorespiratory arrest,no,e3/e3,FALSE
+SRR2015716,Porphyromonas gingivalis,0,0,GSM1679651,15216853516,9422450091,male,C_0005 [reanalysis of GSM1580872],2,yes,97,9.1,C,C_0005,Metastatic colon cancer,no,e3/e2,FALSE
+SRR2015717,Porphyromonas gingivalis,0,0,GSM1679652,6424391638,3790564123,male,C_0006 [reanalysis of GSM1580873],5,yes,86,8.6,C,C_0006,Cardiac arrest,no,e3/e3,FALSE
+SRR2015718,Porphyromonas gingivalis,0,0,GSM1679653,6679277258,3957522447,male,C_0008 [reanalysis of GSM1580874],2,yes,91,8.7,C,C_0008,End stage renal disease,no,e4/e3,FALSE
+SRR2015719,Porphyromonas gingivalis,0,0,GSM1679654,6997693292,4226586375,male,C_0009 [reanalysis of GSM1580875],3,yes,81,6,C,C_0009,Cardiac and/or respiratory failure,no,e3/e3,FALSE
+SRR2015720,Porphyromonas gingivalis,0,0,GSM1679655,6114820376,3608712092,male,C_0010 [reanalysis of GSM1580876],2,yes,79,8.4,C,C_0010,Cardiac and/or respiratory failure,no,e3/e3,FALSE
+SRR2015721,Porphyromonas gingivalis,0,0,GSM1679656,9463971084,5783349306,male,C_0011 [reanalysis of GSM1580877],2,yes,63,6.5,C,C_0011,Acute intracerebral hemorrhage,no,e3/e3,FALSE
+SRR2015722,Porphyromonas gingivalis,0,0,GSM1679657,11951038716,7836495699,male,C_0012 [reanalysis of GSM1580878],19,no,66,7.1,C,C_0012,Myocardial infarction,no,N/A,FALSE
+SRR2015723,Porphyromonas gingivalis,0,0,GSM1679658,9037294160,5912868386,male,C_0013 [reanalysis of GSM1580879],15,no,69,7.8,C,C_0013,Respiratory failure / COPD,no,N/A,FALSE
+SRR2015724,Porphyromonas gingivalis,0,0,GSM1679659,6064138778,3600663559,male,C_0014 [reanalysis of GSM1580880],21,no,79,8,C,C_0014,Pancreatic cancer,no,N/A,FALSE
+SRR2015725,Porphyromonas gingivalis,0,0,GSM1679660,12498353070,8175661200,male,C_0015 [reanalysis of GSM1580881],10,no,61,8.2,C,C_0015,Myocardial infarction,no,N/A,FALSE
+SRR2015726,Porphyromonas gingivalis,0,0,GSM1679661,6843579008,4176092388,male,C_0016 [reanalysis of GSM1580882],20,no,58,8.4,C,C_0016,Cancer,no,N/A,FALSE
+SRR2015727,Porphyromonas gingivalis,0,0,GSM1679662,7296120618,4426101357,male,C_0017 [reanalysis of GSM1580883],21,no,70,8.2,C,C_0017,Myocardial infarction,no,N/A,FALSE
+SRR2015728,Porphyromonas gingivalis,0,0,GSM1679663,8683989898,5245824222,male,C_0018 [reanalysis of GSM1580884],17,no,66,8.5,C,C_0018,Myocardial infarction,no,N/A,FALSE
+SRR2015729,Porphyromonas gingivalis,0,0,GSM1679664,10957255680,6970914706,male,C_0019 [reanalysis of GSM1580885],19,no,73,7.5,C,C_0019,COPD,no,N/A,FALSE
+SRR2015730,Porphyromonas gingivalis,0,0,GSM1679665,8453334784,5237018135,male,C_0020 [reanalysis of GSM1580886],24,no,60,7.9,C,C_0020,Myocardial infarction,no,N/A,FALSE
+SRR2015731,Porphyromonas gingivalis,0,0,GSM1679666,6406433838,3824139572,male,C_0021 [reanalysis of GSM1580887],26,no,76,7.3,C,C_0021,Cardiac arrest,no,N/A,FALSE
+SRR2015732,Porphyromonas gingivalis,0,0,GSM1679667,7386527536,4679302246,male,C_0022 [reanalysis of GSM1580888],17,yes,61,7.8,C,C_0022,Cardiac arrest,no,N/A,FALSE
+SRR2015733,Porphyromonas gingivalis,0,0,GSM1679668,9543837036,6016813607,male,C_0023 [reanalysis of GSM1580889],18,yes,62,6.6,C,C_0023,Myocardial infarction / pulmonary edema,no,N/A,FALSE
+SRR2015734,Porphyromonas gingivalis,0,0,GSM1679669,6361972022,3829725145,male,C_0024 [reanalysis of GSM1580890],26,no,69,8.7,C,C_0024,Myocardial infarction / coronary artery disease,no,N/A,FALSE
+SRR2015735,Porphyromonas gingivalis,0,0,GSM1679670,5636879084,3305469069,male,C_0025 [reanalysis of GSM1580891],25,no,61,8.1,C,C_0025,Cardiac arrest,no,N/A,FALSE
+SRR2015736,Porphyromonas gingivalis,0,0,GSM1679671,7330756952,4321565483,male,C_0026 [reanalysis of GSM1580892],11,yes,88,7.1,C,C_0026,Cardiopulmonary arrest,no,N/A,FALSE
+SRR2015737,Porphyromonas gingivalis,0,0,GSM1679672,6465520656,3950762554,male,C_0029 [reanalysis of GSM1580893],13,no,93,6.4,C,C_0029,Respiratory failure / COPD,no,N/A,FALSE
+SRR2015738,Porphyromonas gingivalis,0,0,GSM1679673,7401600170,4743486725,male,C_0031 [reanalysis of GSM1580894],24,no,53,7.3,C,C_0031,Myocardial infarction,no,N/A,FALSE
+SRR2015739,Porphyromonas gingivalis,0,0,GSM1679674,7170429552,4566114199,male,C_0032 [reanalysis of GSM1580895],24,no,57,8.3,C,C_0032,Myocardial infarction,no,N/A,FALSE
+SRR2015740,Porphyromonas gingivalis,0,0,GSM1679675,6292376154,3959142840,male,C_0035 [reanalysis of GSM1580897],21,no,46,7.6,C,C_0035,Cardiac arrest,no,N/A,FALSE
+SRR2015741,Porphyromonas gingivalis,0,0,GSM1679676,6162928898,3906348529,male,C_0038 [reanalysis of GSM1580900],20,no,57,7.7,C,C_0038,Myocardial infarction,no,N/A,FALSE
+SRR2015742,Porphyromonas gingivalis,0,0,GSM1679677,7564157650,5111102683,male,C_0039 [reanalysis of GSM1580901],15,no,80,7.3,C,C_0039,N/A,no,N/A,FALSE
+SRR2015743,Porphyromonas gingivalis,0,11,GSM1679678,8616317070,5424474262,male,C_0050 [reanalysis of GSM1580902],2,no,74,8.5,C,C_0050,Cardiac and/or respiratory failure,no,e3/e3,TRUE
+SRR2015744,Porphyromonas gingivalis,0,5,GSM1679679,16871532880,11323807107,male,C_0053 [reanalysis of GSM1580903],2,no,69,8.4,C,C_0053,Prostate cancer,no,e3/e3,TRUE
+SRR2015745,Porphyromonas gingivalis,0,2,GSM1679680,10499220680,6861593765,male,C_0060 [reanalysis of GSM1580904],2,no,76,7.5,C,C_0060,Pancreatic cancer,no,e3/e3,TRUE
+SRR2015746,Porphyromonas gingivalis,0,2,GSM1679681,9634703100,6345487603,male,C_0061 [reanalysis of GSM1580905],3,no,78,7.6,C,C_0061,Cardiac and/or respiratory failure,no,e3/e3,TRUE
+SRR2015747,Porphyromonas gingivalis,0,0,GSM1679682,8461113400,5275903334,male,C_0062 [reanalysis of GSM1580906],2,no,87,8.7,C,C_0062,Ruptured aortic aneurysm,no,e3/e3,FALSE
+SRR2015748,Porphyromonas gingivalis,0,115,GSM1679683,11687164702,7652557369,male,C_0065 [reanalysis of GSM1580907],2,no,86,8.7,C,C_0065,"CHF, ischemic cardiomyopathy",no,e3/e3,TRUE
+SRR2015749,Porphyromonas gingivalis,0,5,GSM1679684,12974369302,8473617521,male,C_0069 [reanalysis of GSM1580908],24,no,54,8.3,C,C_0069,Cardiac arrest / congestive heart failure,no,N/A,TRUE
+SRR2015750,Porphyromonas gingivalis,0,2,GSM1679685,14653856892,10021713354,male,C_0070 [reanalysis of GSM1580909],19,no,68,6.3,C,C_0070,Cancer,no,N/A,TRUE
+SRR2015751,Porphyromonas gingivalis,0,11,GSM1679686,10094645384,6367076283,male,C_0075 [reanalysis of GSM1580911],23,no,52,7.4,C,C_0075,Heart attack,no,N/A,TRUE
+SRR2015752,Porphyromonas gingivalis,0,0,GSM1679687,8674901716,5403263051,male,C_0076 [reanalysis of GSM1580912],30,no,46,8.2,C,C_0076,"Viral ""heart attack"" / cardiac arrest",no,N/A,FALSE
+SRR2015753,Porphyromonas gingivalis,0,12,GSM1679688,8374716384,5249369611,male,C_0081 [reanalysis of GSM1580914],26,no,55,7.6,C,C_0081,Myocardial infarction / cardiopulmonary arrest,no,N/A,TRUE
+SRR2015754,Porphyromonas gingivalis,0,2,GSM1679689,12434958198,8422388085,male,C_0082 [reanalysis of GSM1580915],18,no,57,7.8,C,C_0082,N/A,no,N/A,TRUE
+SRR2015755,Porphyromonas gingivalis,0,0,GSM1679690,8150332360,5061790586,male,C_0083 [reanalysis of GSM1580916],32,no,66,8.4,C,C_0083,CPN,no,N/A,FALSE
+SRR2015756,Porphyromonas gingivalis,0,0,GSM1679691,7797096778,4841177502,male,C_0087 [reanalysis of GSM1580917],19,no,64,8.7,C,C_0087,N/A,no,N/A,FALSE
+SRR2015757,Porphyromonas gingivalis,0,0,GSM1679692,6206526558,3700945990,male,P_0003,3,yes,74,7.2,P,P_0003,"Cardiopulmonary arrest, respiratory failure",yes,e3/e3,FALSE
+SRR2015758,Porphyromonas gingivalis,0,0,GSM1679693,8210131834,4991655633,male,P_0006,2,no,83,7.1,P,P_0006,"Pneumonia, hypertension, vascular dementia",yes,e3/e2,FALSE
+SRR2015759,Porphyromonas gingivalis,0,0,GSM1679694,7765835460,4834180950,male,P_0012,2,no,80,8.5,P,P_0012,Probable myocardial infarction,no,N/A,FALSE
+SRR2015760,Porphyromonas gingivalis,0,0,GSM1679695,7150456600,4284700602,male,P_0013,2,yes,83,7.3,P,P_0013,End stage PD,yes,N/A,FALSE
+SRR2015761,Porphyromonas gingivalis,0,0,GSM1679696,7286501782,4440966932,male,P_0014,2,yes,80,8.4,P,P_0014,"End stage PD, inanition",no,N/A,FALSE
+SRR2015762,Porphyromonas gingivalis,0,0,GSM1679697,6474896284,3860855858,male,P_0015,2,yes,84,6.7,P,P_0015,N/A,yes,N/A,FALSE
+SRR2015763,Porphyromonas gingivalis,0,0,GSM1679698,10631989220,6955237275,male,P_0016,2,yes,88,8.1,P,P_0016,End stage COPD,yes,e3/e3,FALSE
+SRR2015764,Porphyromonas gingivalis,0,0,GSM1679699,10928052944,7142134995,male,P_0018,2,yes,81,5.8,P,P_0018,Small cell carcinoma of lung,no,e3/e2,FALSE
+SRR2015765,Porphyromonas gingivalis,0,0,GSM1679700,6169576112,3647078377,male,P_0019,4,yes,77,6.1,P,P_0019,"Cardiac and/or respiratory failure, severe myocardial infarction",no,e3/e3,FALSE
+SRR2015766,Porphyromonas gingivalis,0,0,GSM1679701,7242922908,4402459383,male,P_0020,4,yes,64,8.1,P,P_0020,Complications of lung cancer,no,e4/e2,FALSE
+SRR2015767,Porphyromonas gingivalis,0,0,GSM1679702,4935185018,2893342878,male,P_0021,3,yes,85,6.1,P,P_0021,"Dementia, PD, DVD",yes,e3/e3,FALSE
+SRR2015768,Porphyromonas gingivalis,0,0,GSM1679703,7196034668,4332498859,male,P_0022,9,no,94,6.4,P,P_0022,Respiratory arrest / PD,N/A,N/A,FALSE
+SRR2015769,Porphyromonas gingivalis,0,0,GSM1679704,9156131568,5804932564,male,P_0023,27,no,80,6.5,P,P_0023,Pneumonia / PD,yes,N/A,FALSE
+SRR2015770,Porphyromonas gingivalis,0,0,GSM1679705,7424640492,4694379700,male,P_0026,16,no,85,6.9,P,P_0026,PD,no,N/A,FALSE
+SRR2015771,Porphyromonas gingivalis,0,0,GSM1679706,9827628856,6217533245,male,P_0027,7,yes,75,8,P,P_0027,Cardiac arrest,N/A,N/A,FALSE
+SRR2015772,Porphyromonas gingivalis,0,0,GSM1679707,6749529222,4079828837,male,P_0028,15,no,74,7.1,P,P_0028,End stage PD / bladder infection,N/A,N/A,FALSE
+SRR2015773,Porphyromonas gingivalis,0,0,GSM1679708,5730298832,3420563445,male,P_0029,31,no,89,6.1,P,P_0029,End stage PD,no,N/A,FALSE
+SRR2015774,Porphyromonas gingivalis,0,0,GSM1679709,6405700376,3883116116,male,P_0030,11,yes,66,7.7,P,P_0030,PD,no,N/A,FALSE
+SRR2015775,Porphyromonas gingivalis,0,0,GSM1679710,6627891488,3914649129,male,P_0031,8,yes,65,6.8,P,P_0031,N/A,N/A,N/A,FALSE
+SRR2015776,Porphyromonas gingivalis,0,0,GSM1679711,2025166554,1196139156,male,P_0033,19,no,85,6.1,P,P_0033,Cardiovascular failure,N/A,N/A,FALSE
+SRR2015777,Porphyromonas gingivalis,0,433,GSM1679712,9568346504,6273484495,male,P_0034,4,no,64,7.8,P,P_0034,"Failure to thrive secondary to PD, coronary artery disease",yes,e3/e3,TRUE
+SRR2015778,Porphyromonas gingivalis,0,7,GSM1679713,11370972688,7465486558,male,P_0063,1,no,64,6.1,P,P_0063,"CVA, cardiac and/or respiratory failure",no,e3/e3,TRUE
+SRR2015779,Porphyromonas gingivalis,0,0,GSM1679714,9358760192,5926892063,male,P_0126,30,no,75,6.9,P,P_0126,Aspiration pneumonia,yes,N/A,FALSE
+SRR2015780,Porphyromonas gingivalis,0,0,GSM1679715,9161671216,5794826067,male,P_0130,18,no,68,7.3,P,P_0130,Myocardial infarction,yes,N/A,FALSE
+SRR2015781,Porphyromonas gingivalis,0,24,GSM1679716,7991353310,5042937896,male,P_0132,16,no,95,7,P,P_0132,PD / dementia,yes,N/A,TRUE
+SRR2015782,Porphyromonas gingivalis,0,1,GSM1679717,12881558988,8678902865,male,P_0133,23,no,74,7.5,P,P_0133,PD,no,N/A,TRUE
+SRR2015783,Porphyromonas gingivalis,0,0,GSM1679718,12453107494,8449681971,male,P_0134,23,no,68,7.9,P,P_0134,Cardiac arrest,N/A,N/A,FALSE
+SRR2015784,Porphyromonas gingivalis,0,1,GSM1679719,7977784364,5030926348,male,P_0135,12,no,79,6.9,P,P_0135,Aspiration pneumonia,no,N/A,TRUE
+SRR2015785,Porphyromonas gingivalis,0,0,GSM1679720,7878113524,4906792547,male,P_0136,25,no,70,6.7,P,P_0136,N/A,no,N/A,FALSE
